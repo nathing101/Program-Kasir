@@ -1,2 +1,2 @@
 # Tugas-Uts
- algoritma pemrogrsmsn with python
+ algoritma pemrograman with python
